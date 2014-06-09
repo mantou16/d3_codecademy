@@ -12,3 +12,10 @@ circle {
 	stroke-width: 2px;
 	fill: red;
 }
+
+div.bar {
+	display: inline-block;
+	width: 20px;
+	height: 75px;
+	background-color: teal;
+}
