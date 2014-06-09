@@ -1,0 +1,14 @@
+div {
+    background-color: #dd9;
+    margin: 5px;
+    font-size: 25px;
+    color: #007;
+    padding: 10px;
+    width: 100px;
+}
+
+circle {
+	stroke:	black;
+	stroke-width: 2px;
+	fill: red;
+}
